@@ -1,3 +1,4 @@
+//задание №2
 import java.util.InputMismatchException;
 import java.util.Scanner;
 public class lab4 {
